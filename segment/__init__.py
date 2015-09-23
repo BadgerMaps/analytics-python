@@ -1,6 +1,6 @@
 
-from analytics.version import VERSION
-from analytics.client import Client
+from segment.version import VERSION
+from segment.client import Client
 
 __version__ = VERSION
 
